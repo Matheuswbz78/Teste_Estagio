@@ -1,0 +1,16 @@
+Basicamente peguei varias variaveis como já tinha feito esse programa na faculdade foi bem facil de realizar ele.
+
+vou comecar a explicar ele pelas contas que realizei 
+ primeiro o tempo de encontro peguei a distancia e dividi ela pelo resultado de v carro e v caminhão
+
+depois peguei distancia carro e multipliquei = v carro * tempo_encontro e a mesma coisa com caminhão só trocando os valores
+
+
+depois peguei distancia que faltava e fiz distancia - distancia do carro e a mesma coisa com o caminhão 
+
+tempo que faltava do carro fiz conta de distancia que faltava do carro / velocidade do carro mesma coisa com o caminhão
+
+depois peguei e fiz if`s para mostar se o carro está igual com o caminhão, se o caminhão ou o carro está mais longe
+
+resumindo o programa é isso.
+
